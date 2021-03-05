@@ -45,7 +45,7 @@ namespace hw5_4
             }
             else if (VowelsCount%10 == 1)
             {
-                Console.WriteLine($"Данный текст содержит {VowelsCount} гласную");
+                Console.WriteLine($"Данный текст содержит {VowelsCount} гласных");
             }
             else
             {
